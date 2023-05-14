@@ -12,4 +12,4 @@
 5. Merge
     - Pull requests에서 이상이 없다면 main에 branch의 수정 사항을 적용할 수 있다.
 
-하하 거짓말?
+this is new main
