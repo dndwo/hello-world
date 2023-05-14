@@ -11,3 +11,5 @@
     - Branch에서 수정한 내용을 main에도 적용시키기 위해 요청하는 것
 5. Merge
     - Pull requests에서 이상이 없다면 main에 branch의 수정 사항을 적용할 수 있다.
+
+하하 거짓말?
